@@ -62,6 +62,7 @@ const Homestarter = () => {
           className="rounded-full max-md:h-96 max-md:w-96 max-sm:h-70 max-sm:w-80"
           height={400}
           width={400}
+          priority
         />
       </div>
     </div>

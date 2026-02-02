@@ -4,11 +4,6 @@ import React from "react";
 
 const tech = [
   {
-    title: "Bootstrap",
-    icon: "bootstrap",
-  },
-
-  {
     title: "CSS",
     icon: "css",
   },
@@ -17,16 +12,8 @@ const tech = [
     icon: "express",
   },
   {
-    title: "Firebase",
-    icon: "firebase",
-  },
-  {
     title: "Git",
     icon: "git",
-  },
-  {
-    title: "Heroku",
-    icon: "heroku",
   },
   {
     title: "Html",
@@ -55,14 +42,6 @@ const tech = [
   {
     title: "React",
     icon: "react",
-  },
-  {
-    title: "Redux",
-    icon: "redux",
-  },
-  {
-    title: "Saas",
-    icon: "saas",
   },
   {
     title: "Tailwind",

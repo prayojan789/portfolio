@@ -13,6 +13,7 @@ const HomeMe = () => {
             alt="Website"
             width={700}
             height={700}
+            loading="lazy"
           />
           <div className="absolute bottom-10 left-10">
             <Image
@@ -21,6 +22,7 @@ const HomeMe = () => {
               className="-z-10"
               width={600}
               height={600}
+              loading="lazy"
             />
           </div>
         </div>
@@ -59,6 +61,7 @@ const HomeMe = () => {
             alt="Mobile"
             width={500}
             height={500}
+            loading="lazy"
           />
           <div className="absolute bottom-0 left-10">
             <Image
@@ -67,6 +70,7 @@ const HomeMe = () => {
               className="-scale-x-100"
               width={600}
               height={600}
+              loading="lazy"
             />
           </div>
         </div>
